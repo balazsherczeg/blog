@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/np16374/machines/arabicart
+    - export DEPLOYPATH=/home/np16374/domains/herczeg.ee/blog
     - /bin/cp -R public $DEPLOYPATH
